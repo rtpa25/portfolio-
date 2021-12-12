@@ -154,9 +154,9 @@ const About = () => {
 
             <p>
               The most dreading point during that phase was that we were clueless most of the times
-              and didn't really knew what to do next, So currently we are actively looking for a
-              role in a seed or pre-seed stage startup to work and contribute to the team and to
-              learn from the people who are trying to make a difference
+              and didn't really knew what to do next, So currently I am actively looking for a role
+              in a seed or pre-seed stage startup to work and contribute to the team and to learn
+              from the people who are trying to make a difference
             </p>
 
             <p>Here is my prefered tech stack:</p>

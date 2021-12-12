@@ -6,10 +6,7 @@ module.exports = {
       name: 'GitHub',
       url: 'https://github.com/rtpa25',
     },
-    {
-      name: 'Instagram',
-      url: '',
-    },
+
     {
       name: 'Twitter',
       url: 'https://twitter.com/panda_ronit',
@@ -17,10 +14,6 @@ module.exports = {
     {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/ronit-panda-2822a71a2/',
-    },
-    {
-      name: 'Codepen',
-      url: '',
     },
   ],
 
